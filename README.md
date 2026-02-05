@@ -44,7 +44,7 @@ La estética del **anime**, junto con el **diseño tecnológico minimalista**, i
 
 ## 🧠 Tecnologías & Herramientas
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=js,nodejs,python,angular,react,html,css,mongodb,mysql,git,github,vscode&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=js,nodejs,python,angular,react,html,css,mongodb,vscode&theme=dark" />
 </p>
 
 <p align="center">
